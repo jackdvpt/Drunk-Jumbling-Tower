@@ -32,8 +32,7 @@
 | rainbow connection  | pick a colour, everyone drinks 1 for every piece of clothing they have that is that colour                        | give            | ||
 | sociable drinking   | everyone drinks                                                                                                   | give            | ||
 | spin the bottle     | spin the bottle, looser drinks                                                                                    | give            | ||
-| ditto               | pick someone to copy for the rest of the game, you drink when they drink and they drink when you drink            | give            | |![Alt text](./blocks the second.ai_Ditto.svg)
-<img src="./blocks the second.ai_Ditto.svg">|
+| ditto               | pick someone to copy for the rest of the game, you drink when they drink and they drink when you drink            | give            | |<img src="./blocks the second.ai_Ditto.svg">|
 | Accent              | You must speak in an accent for the rest of the game                                                              | rule            | ||
 | bar tender          | you have yto fech everyons drinks                                                                                 | rule            | ||
 | codenames           | you assing nicknames to everyone (including yourself) and peopel can only use those name for the rest of the game | rule            | ||
