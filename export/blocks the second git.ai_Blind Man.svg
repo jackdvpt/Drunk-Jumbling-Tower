@@ -5,7 +5,7 @@
 	 width="209.76px" height="62.36px" viewBox="0 0 209.76 62.36" enable-background="new 0 0 209.76 62.36" xml:space="preserve">
 <g id="Layer_1">
 </g>
-<g id="Hat">
+<g id="Blindman">
 	<g>
 		<path d="M154.974,19.583c0,0.608-0.116,1.18-0.348,1.716c-0.232,0.537-0.548,1.004-0.948,1.404c-0.4,0.4-0.868,0.716-1.404,0.948
 			c-0.536,0.232-1.1,0.348-1.692,0.348h-7.944V6.959h7.728c0.591,0,1.128,0.128,1.608,0.384s0.888,0.588,1.224,0.996
@@ -144,8 +144,6 @@
 </g>
 <g id="Slap">
 </g>
-<g id="give_3">
-</g>
 <g id="rub">
 </g>
 <g id="down_the_hatch">
@@ -178,10 +176,6 @@
 </g>
 <g id="siblings">
 </g>
-<g id="take_2">
-</g>
-<g id="take_3">
-</g>
 <g id="later">
 </g>
 <g id="waterfall">
@@ -199,6 +193,12 @@
 <g id="questions">
 </g>
 <g id="double_hands">
+</g>
+<g id="take_2">
+</g>
+<g id="take_3">
+</g>
+<g id="give_3">
 </g>
 <g id="give_2">
 </g>
