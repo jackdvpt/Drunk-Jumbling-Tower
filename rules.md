@@ -40,7 +40,7 @@
 | hand switch         | (rule)  use your non-dominant hand                                                                                        | template  | <img src="./export/blocks the second git.ai_hand switch-.svg">        |
 | hat                 | (challenge)  find a hat and wear it for the rest of the game                                                              | Eh        | <img src="./export/blocks the second git.ai_Hat.svg">                 |
 | heads up            | (challenge/drink) do not read aloud, throw this tile at someone. if they catch you drink otherwise they drink             | In Review | <img src="./export/blocks the second git.ai_heads up.svg">            |
-| i am groot          | (give)  tallest person drinks                                                                                             | In Review | <img src="./export/blocks the second git.ai_I AM GROOT.svg">          |
+| :heavy_check_mark: i am groot          | (give)  tallest person drinks                                                                                             | In Review | <img src="./export/blocks the second git.ai_I AM GROOT.svg">          |
 | Keep eye contact|Maintain eye contact with a player of their choice until their next turn|New||
 | Know it all|(challenge/drink) If you are asked a question the person who answers drinks|New||
 | Later               | (take)  Person before you at some point in the game tells you to drink                                                    | In Review | <img src="./export/blocks the second git.ai_Later.svg">               |
@@ -50,7 +50,7 @@
 | Made you blink |– Challenge someone to stare down first one to blink drinks.|New||
 | make a rule         | (rule)  make a rule that stands for the rest of the game                                                                  | template  | <img src="./export/blocks the second git.ai_make a rule-.svg">        |
 | Mamma Bird|(rule) Person to your left has to lift your cup up to your mouth for you to drink|New||
-| mini-me             | (give)  shortest person drinks                                                                                            | In Review | <img src="./export/blocks the second git.ai_Mini Me.svg">             |
+| :heavy_check_mark: mini-me             | (give)  shortest person drinks                                                                                            | In Review | <img src="./export/blocks the second git.ai_Mini Me.svg">             |
 | musical chairs      | (challenge/drink) play a round. looser drinks                                                                             | In Review | <img src="./export/blocks the second git.ai_Musical Chairs.svg">      |
 | Narcissist|(rule) Everyone Compliments you when they have to drink - no repeats|New||
 | Neighbours|The two people next to you must drink|New||
@@ -89,10 +89,10 @@
 | take 3              | (take) take 3                                                                                                             | In Review | <img src="./export/blocks the second git.ai_Take 3.svg">              |
 | the real slim shady | (challenge) stand for the rest of the game                                                                                | In Review | <img src="./export/blocks the second git.ai_Slim Shdy.svg">           |
 | threeman            | (take) whenever a row is completed take a drink - if you complete a row you make someone else the threeman| template  | <img src="./export/blocks the second git.ai_threeman.svg">            |
-| time out            | (challenge) stand with your face in the corner of the room until your next turn. no talking or drinking                   | In Review | <img src="./export/blocks the second git.ai_Timeout.svg">             |
+| :heavy_check_mark: time out            | (challenge) stand with your face in the corner of the room until your next turn. no talking or drinking                   | In Review | <img src="./export/blocks the second git.ai_Timeout.svg">             |
 | :heavy_check_mark: Tits                | (give) Girls Drink                                                                                                        | In Review | <img src="./export/blocks the second git.ai_tits.svg">                |
 | Touchy feely|Everyone must remove the first piece they touch|New||
 | trivia              | (challenge/drink) everyone else comes up with a trivia question to ask you. if you loose you drink. if you win they drink | In Review | <img src="./export/blocks the second git.ai_Trivia.svg">              |
 | :heavy_check_mark: truth or date       | (challenge) play truth or dare                                                                                            | In Review | <img src="./export/blocks the second git.ai_Truth or Dare.svg">       |
 | Wasted Education|Drink 1 for every year you spent in college that is now meaningless in your chosen profession.|New||
-| Waterfall           | (take)                                                                                                                    | In Review | <img src="./export/blocks the second git.ai_waterfall.svg">           |
+|:heavy_check_mark:  Waterfall           | (take)                                                                                                                    | In Review | <img src="./export/blocks the second git.ai_waterfall.svg">           |
