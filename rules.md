@@ -1,7 +1,7 @@
 | Block Name          | Rule                                                                                                                      | Progress  | Preview                                                               |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------- |
 | 2 truths & a lie    | (take) tell 2 truths and a lie, everyone guesses the lie. drink everytime someone guesses correctly                       | In Review | <img src="./export/blocks the second git.ai_2 truths.svg">            |
-| 4 Eyes – All people with glasses must have a drink.||New||
+| 4 Eyes |All people with glasses must have a drink.|New||
 | Accent              | (rule) You must speak in an accent for the rest of the game                                                               | In Review | <img src="./export/blocks the second git.ai_Accents.svg">             |
 | Archenemy           | (give) give someone 4 drinks                                                                                              | In Review | <img src="./export/blocks the second git.ai_Archenemy.svg">           |
 | arm wrestle         | (challenge/drink) arm wrestle the person to your left. loser drinks                                                       | In Review | <img src="./export/blocks the second git.ai_Arm Wrestle.svg">         |
@@ -13,7 +13,7 @@
 | body guard          | (take) you pick someone and then taste their drink before them for the rest of the game                                   | template  | <img src="./export/blocks the second git.ai_body guard-.svg">         |
 | BRO|(rule) If you make eye contact with someone you have to eye five - failure is a drink|New||
 | Buckle Up|(rule) you are now buckeld in, you must undo and redo your seat belt when you get up|New||
-| Cartwheel challenge – Pull a semi decent cartwheel and everyone else drinks.||New||
+| Cartwheel challenge |Pull a semi decent cartwheel and everyone else drinks.|New||
 | Categories          | (challenge/drink)                                                                                                         | In Review | <img src="./export/blocks the second git.ai_categories.svg">          |
 | Censored|(rule) You cant swear for the rest of the game|New||
 | Cheers              | (give) Give 2, take 2                                                                                                     | In Review | <img src="./export/blocks the second git.ai_cheers.svg">              |
@@ -47,7 +47,7 @@
 | Leap of Fathe| (challenge) Locate the block and take it with your eyes closed                                                                            | In Review | <img src="./export/blocks the second git.ai_Blind Man.svg">           |
 | Least Drunk: |The least drunk person in the group has to drink|New||
 | Lightning Round|10 seconds between moving blocks - if you fail you drink|New||
-| Made you blink – Challenge someone to stare down first one to blink drinks.||New||
+| Made you blink |– Challenge someone to stare down first one to blink drinks.|New||
 | make a rule         | (rule)  make a rule that stands for the rest of the game                                                                  | template  | <img src="./export/blocks the second git.ai_make a rule-.svg">        |
 | Mamma Bird|(rule) Person to your left has to lift your cup up to your mouth for you to drink|New||
 | mini-me             | (give)  shortest person drinks                                                                                            | In Review | <img src="./export/blocks the second git.ai_Mini Me.svg">             |
