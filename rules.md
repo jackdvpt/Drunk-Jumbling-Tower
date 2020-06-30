@@ -60,7 +60,6 @@
 | not it              | (challenge/drink)do not read aloud, the last player to touch there finger to their nose must drink 2                      | In Review | <img src="./export/blocks the second git.ai_Not it.svg">              |
 | Oh no! Someone stole my kayak!|Steal your neighbor's drink, and drink for them the rest of the game.|New||
 | one must drink      | (give)  everyone votes, person with most votes drinks                                                                     | In Review | <img src="./export/blocks the second git.ai_One must drink.svg">      |
-| one must drink 3.|Chris Sniezek|Sniezek 2004||
 | pass                | (rule)  you can hoard a later tile and pass it on to someone else                                                         | In Review | <img src="./export/blocks the second git.ai_pass.svg">                |
 | Peer Pressure|Drink 1 drink for each person playing the game|New||
 | Pirate|(rule) YAAARRR, talk like a pirate for the rest of the game|New||
