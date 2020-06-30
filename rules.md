@@ -1,10 +1,10 @@
 | Block Name          | Rule                                                                                                                      | Progress  | Preview                                                               |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------- |
-| [x] 2 truths & a lie    | (take) tell 2 truths and a lie, everyone guesses the lie. drink everytime someone guesses correctly                       | In Review | <img src="./export/blocks the second git.ai_2 truths.svg">            |
+| :heavy_check_mark: 2 truths & a lie    | (take) tell 2 truths and a lie, everyone guesses the lie. drink everytime someone guesses correctly                       | In Review | <img src="./export/blocks the second git.ai_2 truths.svg">            |
 | 4 Eyes |All people with glasses must have a drink.|New||
-|[x]  Accent              | (rule) You must speak in an accent for the rest of the game                                                               | In Review | <img src="./export/blocks the second git.ai_Accents.svg">             |
-| [x] Archenemy           | (give) give someone 4 drinks                                                                                              | In Review | <img src="./export/blocks the second git.ai_Archenemy.svg">           |
-|[x]  arm wrestle         | (challenge/drink) arm wrestle the person to your left. loser drinks                                                       | In Review | <img src="./export/blocks the second git.ai_Arm Wrestle.svg">         |
+|:heavy_check_mark:  Accent              | (rule) You must speak in an accent for the rest of the game                                                               | In Review | <img src="./export/blocks the second git.ai_Accents.svg">             |
+| :heavy_check_mark: Archenemy           | (give) give someone 4 drinks                                                                                              | In Review | <img src="./export/blocks the second git.ai_Archenemy.svg">           |
+|:heavy_check_mark:  arm wrestle         | (challenge/drink) arm wrestle the person to your left. loser drinks                                                       | In Review | <img src="./export/blocks the second git.ai_Arm Wrestle.svg">         |
 | Baby Talk|(rule) you can only speak in one syllalbe words|New||
 | Backseat driver|Person to your left picks the piece you pull|New||
 | bar tender          | (rule) you have to fetch everyones drinks                                                                                 | template  | <img src="./export/blocks the second git.ai_bar tender-.svg">         |
@@ -23,7 +23,7 @@
 | cray cray cat lady  | (take) drink for every cat you have ever owned                                                                            | In Review | <img src="./export/blocks the second git.ai_cray cray cat lady-.svg"> |
 | crypt keeper        | (give) oldest person drinks                                                                                               | In Review | <img src="./export/blocks the second git.ai_Cryptkeper.svg">          |
 | Depersonalization|(rule) You cannot call anyone from their first name and you cant point at them - fail and drink|New||
-| [x] Dicks               | (take) Guys Drink                                                                                                         | In Review | <img src="./export/blocks the second git.ai_dicks.svg">               |
+| :heavy_check_mark: Dicks               | (take) Guys Drink                                                                                                         | In Review | <img src="./export/blocks the second git.ai_dicks.svg">               |
 | Dicktator|(challenge) as long as this block is balanced on your head you are impervious from other blocks|New||
 | ditto               | (give)  pick someone to copy for the rest of the game, you drink when they drink and vice versa                           | In Review | <img src="./export/blocks the second git.ai_Ditto.svg">               |
 | Double Hands        | (rule) You must drink with both your hands                                                                                | In Review | <img src="./export/blocks the second git.ai_Double Hands.svg">        |
@@ -64,12 +64,11 @@
 | Peer Pressure|Drink 1 drink for each person playing the game|New||
 | Pirate|(rule) YAAARRR, talk like a pirate for the rest of the game|New||
 | Point of No Return|You must take a tile from within 3 rows of the top for the rest of the game.|New||
-| Questions|(rule) You must talk speak in questions - fail and drink|New||
 | Questions           | (challenge/drink) Speak in questions only, first one to fail drinks                                                       | In Review | <img src="./export/blocks the second git.ai_Questions.svg">           |
 | rainbow connection  | (give) pick a colour, everyone drinks if they are wearing that colour                                                     | Eh        | <img src="./export/blocks the second git.ai_Rainbow connection.svg">  |
 | Reverse|Order of play reverses|In Review| <img src="./export/blocks the second git.ai_reverse.svg">           |
 | rewind              | (challenge) take a block from the top and put it back into the tower                                                      | In Review | <img src="./export/blocks the second git.ai_rewind.svg">              |
-| Rhyme               | (challenge/drink)                                                                                                         | In Review | <img src="./export/blocks the second git.ai_rhyme.svg">               |
+| :heavy_check_mark: Rhyme               | (challenge/drink)                                                                                                         | In Review | <img src="./export/blocks the second git.ai_rhyme.svg">               |
 | Rock, Paper, Scissors|everyone throws Rock, Paper, or Scissors. You drink 1 for every person who beats you. Every person you beat drinks 1.|New||
 | Rogger Roger|(rule) When you speak put your fingers to your ear like your the presidents bodyguard|New||
 | Royale we|(rule) refer to yourself as the royale "We"|New||
@@ -81,7 +80,7 @@
 | slap                | (challenge) everyone gets a free slap on you during the game                                                              | In Review | <img src="./export/blocks the second git.ai_SLAP.svg">                |
 | snake eyes          | (rule) if anyone looks into your eyes for the rest of the game they drink                                                 | In Review | <img src="./export/blocks the second git.ai_snake eyes-.svg">         |
 | sociable drinking   | (give)  everyone drinks                                                                                                   | In Review | <img src="./export/blocks the second git.ai_Social Drinking.svg">     |
-| speech              | (challenge) make a 60 second speech                                                                                       | In Review | <img src="./export/blocks the second git.ai_speech.svg">              |
+| :heavy_check_mark: speech              | (challenge) make a 60 second speech                                                                                       | In Review | <img src="./export/blocks the second git.ai_speech.svg">              |
 | spin the bottle     | (give)  spin the bottle, looser drinks                                                                                    | In Review | <img src="./export/blocks the second git.ai_Spin the bottle.svg">     |
 | Swine Rulls|(rule) You must point at a person to talk to them & every sentence has a swear|New||
 | t-rex arms          | (challenge) you must do everything with t-rex arms for the rest of the game, elbows touching your sides                   | In Review | <img src="./export/blocks the second git.ai_TREX ARMS.svg">           |
@@ -91,9 +90,9 @@
 | the real slim shady | (challenge) stand for the rest of the game                                                                                | In Review | <img src="./export/blocks the second git.ai_Slim Shdy.svg">           |
 | threeman            | (take) whenever a row is completed take a drink - if you complete a row you make someone else the threeman| template  | <img src="./export/blocks the second git.ai_threeman.svg">            |
 | time out            | (challenge) stand with your face in the corner of the room until your next turn. no talking or drinking                   | In Review | <img src="./export/blocks the second git.ai_Timeout.svg">             |
-| Tits                | (give) Girls Drink                                                                                                        | In Review | <img src="./export/blocks the second git.ai_tits.svg">                |
+| :heavy_check_mark: Tits                | (give) Girls Drink                                                                                                        | In Review | <img src="./export/blocks the second git.ai_tits.svg">                |
 | Touchy feely|Everyone must remove the first piece they touch|New||
 | trivia              | (challenge/drink) everyone else comes up with a trivia question to ask you. if you loose you drink. if you win they drink | In Review | <img src="./export/blocks the second git.ai_Trivia.svg">              |
-| truth or date       | (challenge) play truth or dare                                                                                            | In Review | <img src="./export/blocks the second git.ai_Truth or Dare.svg">       |
+| :heavy_check_mark: truth or date       | (challenge) play truth or dare                                                                                            | In Review | <img src="./export/blocks the second git.ai_Truth or Dare.svg">       |
 | Wasted Education|Drink 1 for every year you spent in college that is now meaningless in your chosen profession.|New||
 | Waterfall           | (take)                                                                                                                    | In Review | <img src="./export/blocks the second git.ai_waterfall.svg">           |
