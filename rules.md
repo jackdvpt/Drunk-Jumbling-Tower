@@ -1,10 +1,10 @@
 | Block Name          | Rule                                                                                                                      | Progress  | Preview                                                               |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------- |
-| 2 truths & a lie    | (take) tell 2 truths and a lie, everyone guesses the lie. drink everytime someone guesses correctly                       | In Review | <img src="./export/blocks the second git.ai_2 truths.svg">            |
+| [x] 2 truths & a lie    | (take) tell 2 truths and a lie, everyone guesses the lie. drink everytime someone guesses correctly                       | In Review | <img src="./export/blocks the second git.ai_2 truths.svg">            |
 | 4 Eyes |All people with glasses must have a drink.|New||
-| Accent              | (rule) You must speak in an accent for the rest of the game                                                               | In Review | <img src="./export/blocks the second git.ai_Accents.svg">             |
-| Archenemy           | (give) give someone 4 drinks                                                                                              | In Review | <img src="./export/blocks the second git.ai_Archenemy.svg">           |
-| arm wrestle         | (challenge/drink) arm wrestle the person to your left. loser drinks                                                       | In Review | <img src="./export/blocks the second git.ai_Arm Wrestle.svg">         |
+|[x]  Accent              | (rule) You must speak in an accent for the rest of the game                                                               | In Review | <img src="./export/blocks the second git.ai_Accents.svg">             |
+| [x] Archenemy           | (give) give someone 4 drinks                                                                                              | In Review | <img src="./export/blocks the second git.ai_Archenemy.svg">           |
+|[x]  arm wrestle         | (challenge/drink) arm wrestle the person to your left. loser drinks                                                       | In Review | <img src="./export/blocks the second git.ai_Arm Wrestle.svg">         |
 | Baby Talk|(rule) you can only speak in one syllalbe words|New||
 | Backseat driver|Person to your left picks the piece you pull|New||
 | bar tender          | (rule) you have to fetch everyones drinks                                                                                 | template  | <img src="./export/blocks the second git.ai_bar tender-.svg">         |
@@ -23,7 +23,7 @@
 | cray cray cat lady  | (take) drink for every cat you have ever owned                                                                            | In Review | <img src="./export/blocks the second git.ai_cray cray cat lady-.svg"> |
 | crypt keeper        | (give) oldest person drinks                                                                                               | In Review | <img src="./export/blocks the second git.ai_Cryptkeper.svg">          |
 | Depersonalization|(rule) You cannot call anyone from their first name and you cant point at them - fail and drink|New||
-| Dicks               | (take) Guys Drink                                                                                                         | In Review | <img src="./export/blocks the second git.ai_dicks.svg">               |
+| [x] Dicks               | (take) Guys Drink                                                                                                         | In Review | <img src="./export/blocks the second git.ai_dicks.svg">               |
 | Dicktator|(challenge) as long as this block is balanced on your head you are impervious from other blocks|New||
 | ditto               | (give)  pick someone to copy for the rest of the game, you drink when they drink and vice versa                           | In Review | <img src="./export/blocks the second git.ai_Ditto.svg">               |
 | Double Hands        | (rule) You must drink with both your hands                                                                                | In Review | <img src="./export/blocks the second git.ai_Double Hands.svg">        |
