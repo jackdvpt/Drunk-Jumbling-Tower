@@ -66,7 +66,7 @@
 | Point of No Return|You must take a tile from within 3 rows of the top for the rest of the game.|New||
 | Questions           | (challenge/drink) Speak in questions only, first one to fail drinks                                                       | In Review | <img src="./export/blocks the second git.ai_Questions.svg">           |
 | rainbow connection  | (give) pick a colour, everyone drinks if they are wearing that colour                                                     | Eh        | <img src="./export/blocks the second git.ai_Rainbow connection.svg">  |
-| Reverse|Order of play reverses|In Review| <img src="./export/blocks the second git.ai_reverse.svg">           |
+| Reverse|Order of play reverses|In Review| <img src="./export/blocks the second git.ai_Reverse.svg">           |
 | rewind              | (challenge) take a block from the top and put it back into the tower                                                      | In Review | <img src="./export/blocks the second git.ai_rewind.svg">              |
 | :heavy_check_mark: Rhyme               | (challenge/drink)                                                                                                         | In Review | <img src="./export/blocks the second git.ai_rhyme.svg">               |
 | Rock, Paper, Scissors|everyone throws Rock, Paper, or Scissors. You drink 1 for every person who beats you. Every person you beat drinks 1.|New||
@@ -76,7 +76,7 @@
 | santa               | (rule) sit on the person opposite lap for a round                                                                         | In Review | <img src="./export/blocks the second git.ai_santa.svg">               |
 | sharing is caring   | (challenge/drink)kings cup, everyone pours some of their drink into a cup and you drink                                   | In Review | <img src="./export/blocks the second git.ai_Sharing is Caring.svg">   |
 | siblings            | (take) Drink 1 for every sibling you have                                                                                 | In Review | <img src="./export/blocks the second git.ai_siblings.svg">            |
-| Skip|(rule) Skip the next player|New||
+| Skip|(rule) Skip the next player|New|<img src="./export/blocks the second git.ai_Skip.svg"> |
 | slap                | (challenge) everyone gets a free slap on you during the game                                                              | In Review | <img src="./export/blocks the second git.ai_SLAP.svg">                |
 | snake eyes          | (rule) if anyone looks into your eyes for the rest of the game they drink                                                 | In Review | <img src="./export/blocks the second git.ai_snake eyes-.svg">         |
 | sociable drinking   | (give)  everyone drinks                                                                                                   | In Review | <img src="./export/blocks the second git.ai_Social Drinking.svg">     |
