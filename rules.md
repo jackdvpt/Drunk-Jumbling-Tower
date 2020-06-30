@@ -71,7 +71,7 @@
 | Reverse|Order of play reverses|In Review| <img src="./export/blocks the second git.ai_reverse.svg">           |
 | rewind              | (challenge) take a block from the top and put it back into the tower                                                      | In Review | <img src="./export/blocks the second git.ai_rewind.svg">              |
 | Rhyme               | (challenge/drink)                                                                                                         | In Review | <img src="./export/blocks the second git.ai_rhyme.svg">               |
-| Rock, Paper, Scissors|On a count of 3, everyone throws Rock, Paper, or Scissors. You drink 1 for every person who beats you. Every person who matches you gives 1. Every person you beat drinks 1.|New||
+| Rock, Paper, Scissors|everyone throws Rock, Paper, or Scissors. You drink 1 for every person who beats you. Every person you beat drinks 1.|New||
 | Rogger Roger|(rule) When you speak put your fingers to your ear like your the presidents bodyguard|New||
 | Royale we|(rule) refer to yourself as the royale "We"|New||
 | rubiks cube         | (take) drink for the length of the shortest time to solve a cube                                                          | template  | <img src="./export/blocks the second git.ai_rubiks cube.svg">         |
