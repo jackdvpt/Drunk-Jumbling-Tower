@@ -83,6 +83,8 @@
 <g id="LeastDrunk">
 </g>
 <g id="Know_It_All">
+	<g id="Layer_94">
+	</g>
 </g>
 <g id="EyeContact">
 </g>
@@ -181,7 +183,6 @@
 <g id="Embryo">
 </g>
 <g id="I_am_Groot">
-	<rect y="17.121" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="170.079" height="28.119"/>
 	<g>
 		<path d="M208.276,31.313c-0.017,0.068-0.133,0.21-0.348,0.425c-0.147,0.17-0.286,0.283-0.417,0.34
 			c-0.13,0.057-0.325,0.103-0.586,0.137c-0.578,0.067-2.72,0.181-6.426,0.34c-0.601,0.022-1.097-0.051-1.487-0.222
@@ -369,6 +370,8 @@
 		<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="147.404,35.446 147.404,45.24 
 			153.073,45.24 153.073,35.446 		"/>
 	</g>
+	<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="-0.792,45.24 170.249,45.24 
+		170.249,17.121 -0.792,17.121 	"/>
 </g>
 <g id="Mini_Me">
 </g>
