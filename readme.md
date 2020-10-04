@@ -16,7 +16,7 @@
 |Boobs|All girls drink|<img src="./block/block_tits.svg">|
 |BRO|If you make eye contact with someone you have ot say bro|<img src="./block/block_Bro.svg">|
 |Buckle Up|you are now buckled in, you must undo and redo your seat belt when you get up|<img src="./block/block_BuckleUp.svg">|
-|Can of Whoop-Ass|At any one time during the game someone gives you 2 or more drinks, you may give them 10 drinks in return.  If you are a Bodyguard, you may also do so if the drinks are given to the person you're guarding.	|<img src=""./block/blocks_WHOOP-ASS.svg"">|
+|Can of Whoop-Ass|At any one time during the game someone gives you 2 or more drinks, you may give them 10 drinks in return.  If you are a Bodyguard, you may also do so if the drinks are given to the person you're guarding.	|<img src="./block/blocks_CAN.svg">|
 |Cannonball|Pick a Code Word.  If you hear this code word, you must destroy the tower and the person responsible drinks|<img src="./block/blocks_CANNONBALL.svg">|
 |Cartwheel|Pull a semi decent cartwheel and everyone else drinks - otherwise you drink|<img src="./block/block_Cartwheel.svg">|
 |Categories|Pick a category, everyone must say something in that category. First person to Fails drinks|<img src="./block/block_categories.svg">|
