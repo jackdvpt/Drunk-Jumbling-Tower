@@ -1,6 +1,6 @@
 |Block Name|Rule|Preview|
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
-|2 truths & a lie|Tell 2 truths and a lie, everyone guesses what the lie is. You drink whenever someone guesses correctly|<img src="./block/block_2 truths.svg">|
+|2 truths & a lie|Tell 2 truths and a lie, everyone guesses what the lie is. You drink whenever someone guesses correctly|<img src="./block/block_2 truths.svg" width=50%>|
 |4 Eyes|Anyone with glasses drinks|<img src="./block/block_4Eyes.svg">|
 |Accent|Speak with an accent for the rest of the game|<img src="./block/block_Accents.svg">|
 |Archenemy|Give someone 4 drinks|<img src="./block/block_Archenemy.svg">|
