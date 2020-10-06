@@ -7,7 +7,7 @@
 
 <script>
   $(function() {
-    $.getJSON("./jenga.json", function(data){
+    $.getJSON("https://script.google.com/macros/s/AKfycbwci-Z_W7H3eLQeJ0NBf8bBCwrQH3pu13RV0nY1cnX98CG_6HI/exec", function(data){
             var blocks = data.blocks
             for (i = 0;i<blocks.length; i ++){
               var current = '<div class = "column"> <div class = "card"><img src="'+ blocks[i].img+'" alt="Avatar" style="width:100%"><div class="container"><h4 class = "card-title"><b>'+blocks[i].name+'</b></h4><p>'+blocks[i].desc+'</p></div></div></div>';
